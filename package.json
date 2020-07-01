@@ -2,7 +2,7 @@
   "name": "nodejs-docker-starter",
   "version": "1.0.0",
   "description": "Node.js boilerplate using Express and Docker.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "jest"
