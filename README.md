@@ -1,4 +1,6 @@
 # Node.js Docker starter
+![Node.js CI](https://github.com/DavideViolante/nodejs-docker-starter/workflows/Node.js%20CI/badge.svg)
+
 The most basic boilerplate using Node.js, Express and Docker.
 
 ## Run
