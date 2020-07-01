@@ -4,7 +4,8 @@
   "description": "Node.js boilerplate using Express and Docker.",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "jest"
   },
   "author": "Davide Violante",
   "license": "MIT",
@@ -27,5 +28,9 @@
   "homepage": "https://github.com/DavideViolante/nodejs-docker-starter#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
   }
 }
