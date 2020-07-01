@@ -8,7 +8,10 @@ The most basic boilerplate using Node.js, Express and Docker.
 4. Run image: `docker run -p 3000:3000 -d --name nds nodejs-docker-starter:latest`
 5. Go to http://localhost:3000
 
-## Other commands
+## Run test
+1. `npm test`
+
+## Other docker commands
 - Show running containers: `docker ps`
 - Show app logs: `docker logs nds`
 - Stop app: `docker rm -f nds`
