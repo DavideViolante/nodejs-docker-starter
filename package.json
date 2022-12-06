@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/DavideViolante/nodejs-docker-starter#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "jest": "^26.1.0",
